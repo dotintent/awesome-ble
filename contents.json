@@ -17,11 +17,11 @@
   ],
   "projects": [
     {
-      "title": "BLE iOS",
+      "title": "CombineCoreBluetooth",
       "category": "mobile-ios",
-      "description": "An example to test the flow.",
-      "homepage": "https://github.com/dotintent/MultiPlatformBleAdapter",
-      "tags": ["swift", "ios"]
+      "description": "CombineCoreBluetooth is a library that bridges Apple's CoreBluetooth framework and Apple's Combine framework.",
+      "homepage": "https://github.com/StarryInternet/CombineCoreBluetooth",
+      "tags": ["swift", "ios", "combine"]
     }
   ]
 }
