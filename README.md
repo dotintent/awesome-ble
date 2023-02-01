@@ -21,7 +21,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :)
 ### iOS
 *iOS related resources* [back to top](#readme) 
 
-* [BLE iOS](https://github.com/dotintent/MultiPlatformBleAdapter) - An example to test the flow.
+* [CombineCoreBluetooth](https://github.com/StarryInternet/CombineCoreBluetooth) - CombineCoreBluetooth is a library that bridges Apple's CoreBluetooth framework and Apple's Combine framework.
 
 
 ### Contributing
