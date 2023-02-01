@@ -7,12 +7,12 @@ GEM
     parallel (1.20.1)
 
 PLATFORMS
-  ruby
+  arm64-darwin-21
   x86_64-linux
 
 DEPENDENCIES
   awesome_bot (~> 1.20)
-  cgi
+  cgi (~> 0.3.6)
 
 BUNDLED WITH
    2.3.26

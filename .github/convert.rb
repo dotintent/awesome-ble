@@ -1,3 +1,5 @@
+require 'cgi'
+
 README = 'README.md'
 CONTENTS = 'contents.json'
 
