@@ -1,2 +1,4 @@
 ---
-BUNDLE_PATH: "vendor/bundle"
+BUNDLE_PATH: "/home/runner/work/awesome-ble/awesome-ble/vendor/bundle"
+BUNDLE_DEPLOYMENT: "true"
+BUNDLE_JOBS: "4"
