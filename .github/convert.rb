@@ -88,8 +88,8 @@ def output_contributing(j)
 end
 
 def output_table(num_projects)
-  o = "![Contents](https://img.shields.io/badge/Contents-#{num_projects}-green)"
-  o << " $~~~~~$ ![Last Update](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)"
+  o = "![](https://img.shields.io/badge/Contents-#{num_projects}-green)"
+  o << " $~~~~~$ ![](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)"
   o
 end
 
