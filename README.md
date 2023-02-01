@@ -8,7 +8,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :)
 
 
 
-![](https://img.shields.io/badge/Contents-1-green) $~~~~~$ ![](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)
+![Contents](https://img.shields.io/badge/Contents-1-green) $~~~~~$ ![Last Update](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)
 
 ### Contents
 
