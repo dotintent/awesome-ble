@@ -1,5 +1,3 @@
-require 'cgi'
-
 README = 'README.md'
 CONTENTS = 'contents.json'
 
@@ -90,15 +88,8 @@ def output_contributing(j)
 end
 
 def output_table(num_projects)
-  require 'date'
-
-  date = DateTime.now
-  date_display = date.strftime "%B %d, %Y"
-  date_display_encoded = CGI.escape(date_display)
-
   o = "![Projects ](https://img.shields.io/badge/Projects-#{num_projects}-green)"
-  o << "![Last Update](https://img.shields.io/badge/Last%20Update-#{date_display_encoded}-orange)"
-
+  o << "$~~~~~$![Last Update](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)"
   o
 end
 
