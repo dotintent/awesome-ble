@@ -8,7 +8,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :)
 
 
 
-![Projects ](https://img.shields.io/badge/Projects-1-green)![Last Update](https://img.shields.io/badge/Last%20Update-February+01%2C+2023-orange)
+![Projects ](https://img.shields.io/badge/Projects-1-green)$~~~~~$![Last Update](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)
 
 ### Contents
 
