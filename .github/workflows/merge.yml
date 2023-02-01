@@ -1,0 +1,23 @@
+name: On Merge
+
+on:
+   push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up ruby env
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6.8
+          bundler-cache: true
+      - run: ruby .github/convert.rb
+      - name: Push changes
+        uses: actions-go/push@v1
+        with:
+          force: true
+          author-name: 🤖 Awesome-BLE 🤖
+          commit-message: 'Updated markdown'

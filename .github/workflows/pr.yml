@@ -1,0 +1,23 @@
+name: PR Check
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up ruby env
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6.8
+          bundler-cache: true
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+      - run: pip install -r requirements.txt
+      - run: awesome_bot --allow=429 contents.json #-w AERecord,theswiftwebdeveloper,bluemix,swiftplayground,awesome-for-swift-cheatsheet
+      - run: json validate --schema-file=.github/schema.json --document-file=contents.json
