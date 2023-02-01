@@ -7,9 +7,10 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-linux
 
 DEPENDENCIES
-  awesome_bot
+  awesome_bot (~> 1.20)
 
 BUNDLED WITH
    2.3.26
