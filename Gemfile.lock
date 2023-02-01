@@ -3,6 +3,7 @@ GEM
   specs:
     awesome_bot (1.20.0)
       parallel (= 1.20.1)
+    cgi (0.3.6)
     parallel (1.20.1)
 
 PLATFORMS
@@ -11,6 +12,7 @@ PLATFORMS
 
 DEPENDENCIES
   awesome_bot (~> 1.20)
+  cgi
 
 BUNDLED WITH
    2.3.26
