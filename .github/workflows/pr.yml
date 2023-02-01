@@ -19,5 +19,5 @@ jobs:
           python-version: '3.9'
           cache: 'pip'
       - run: pip install -r requirements.txt
-      - run: bundle exec awesome_bot --allow=429 contents.json #-w AERecord,theswiftwebdeveloper,bluemix,swiftplayground,awesome-for-swift-cheatsheet
+      - run: bundle exec awesome_bot --allow=429,302 contents.json -w dotintent
       - run: json validate --schema-file=.github/schema.json --document-file=contents.json
