@@ -6,18 +6,12 @@ def get_json()
     JSON.parse(File.read CONTENTS)
 end
 
-def output_linux(tags)
-  return '' if tags.nil?
-  return ':penguin: ' if tags.include? 'linux'
-  ''
-end
-
 def output_projects(proj, id)
   o = ''
   proj.select {|p| p['category']==id }
     .sort_by {|k,v| k['title'].downcase}
     .each do |p|
-    o << "* [#{p['title']}](#{p['homepage']}) #{output_linux p['tags']}- #{p['description']}\n"
+    o << "* [#{p['title']}](#{p['homepage']}) - #{p['description']}\n"
   end
   o
 end
@@ -98,9 +92,10 @@ def output_table(num_projects)
 
   date = DateTime.now
   date_display = date.strftime "%B %d, %Y"
+  date_display_encoded = CGI.escape(date_display)
 
-  o = "https://img.shields.io/badge/Projects-#{num_projects}-green"
-  o << "https://img.shields.io/badge/Update-#{date_display}-orange"
+  o = "![Projects ](https://img.shields.io/badge/Projects-#{num_projects}-green)"
+  o << "![Last Update](https://img.shields.io/badge/Last%20Update-#{date_display_encoded}-orange)"
 
   o
 end

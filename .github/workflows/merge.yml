@@ -20,4 +20,4 @@ jobs:
         with:
           force: true
           author-name: 🤖 Awesome-BLE 🤖
-          commit-message: 'Updated markdown'
+          commit-message: '📝 Updated README'
