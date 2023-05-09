@@ -1,6 +1,6 @@
 {
   "title": "Awesome BLE",
-  "header": "# Awesome BLE - [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)\nA collaborative list of Awesome BLE resources. Feel free to contribute! \n<!-- \n\nPLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :)\n\n -->\n\n",
+  "header": "# Awesome BLE - [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)\nA collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](https://withitent.com). Feel free to contribute! \n<!-- \n\nPLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :)\n\n -->\n\n",
   "header_contributing": "Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. If you see an entry longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/dotintent/awesome-ble/graphs/contributors); you rock!!",
   "categories": [
     {
@@ -23,40 +23,43 @@
         "title": "iOS",
         "id": "library-mobile-ios",
         "description": "iOS related resources",
-        "parent": "mobile"
+        "parent": "library-mobile"
     },
     {
       "title": "KMM (Kotlin Multiplatform Mobile)",
       "id": "library-mobile-kmm",
       "description": "Kotlin Multiplatform Mobile related resources",
-      "parent": "mobile"
+      "parent": "library-mobile"
     },
     {
       "title": "Android",
       "id": "library-mobile-android",
       "description": "Android related resources",
-      "parent": "mobile"
+      "parent": "library-mobile"
     },
     {
         "title": "Flutter",
         "id": "library-mobile-flutter",
         "description": "Flutter related resources",
-        "parent": "mobile"
+        "parent": "library-mobile"
     },
     {
         "title": "Embedded",
         "id": "library-embedded",
-        "description": "Libraries collection for Embedded devices. RPi, ESP32, etc."
+        "description": "Libraries collection for Embedded devices. RPi, ESP32, etc.",
+        "parent": "library"
     },
     {
         "title": "ESP32",
         "id": "library-embedded-esp32",
-        "description": "ESP32 libraries"
+        "description": "ESP32 libraries",
+        "parent": "library-embedded"
     },
     {
         "title": "RaspberryPi (RPi)",
         "id": "library-embedded-rpi",
-        "description": "RPi libraries"
+        "description": "RPi libraries",
+        "parent": "library-embedded"
     }
   ],
   "projects": [
