@@ -89,7 +89,7 @@ end
 
 def output_table(num_projects)
   o = "![](https://img.shields.io/badge/Contents-#{num_projects}-green)"
-  o << " $~~~~~$ ![](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)"
+  o << " ![](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)"
   o
 end
 
