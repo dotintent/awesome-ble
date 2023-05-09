@@ -26,12 +26,6 @@
         "parent": "mobile"
     },
     {
-        "title": "Flutter",
-        "id": "library-mobile-flutter",
-        "description": "Flutter related resources",
-        "parent": "mobile"
-    },
-    {
       "title": "KMM (Kotlin Multiplatform Mobile)",
       "id": "library-mobile-kmm",
       "description": "Kotlin Multiplatform Mobile related resources",
