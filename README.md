@@ -8,20 +8,40 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :)
 
 
 
-![](https://img.shields.io/badge/Contents-1-green) $~~~~~$ ![](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)
+![](https://img.shields.io/badge/Contents-16-green) $~~~~~$ ![](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)
 
 ### Contents
 
-- [Mobile](#mobile)
-  - [iOS](#mobile-ios)
+- [Documentation](#documentation)
+- [Library](#library)
+  - [Mobile](#library-mobile)
+- [Embedded](#library-embedded)
+- [ESP32](#library-embedded-esp32)
+- [RaspberryPi (RPi)](#library-embedded-rpi)
 
-## Mobile
-*Mobile related resources* 
+## Documentation
+*A collection of documentation and, RFC about BLE protocol* 
+* [Android Bluetooth Low Energy](https://developer.android.com/guide/topics/connectivity/bluetooth/ble-overview) - Overview about BLE in Android
+* [Developing a Bluetooth Low Energy Application by TI](https://software-dl.ti.com/lprf/simplelink_cc2640r2_sdk/1.35.00.33/exports/docs/ble5stack/ble_user_guide/html/ble-stack/index.html) - A guide by TI about how to develop a BLE app
+* [Intro to Bluetooth Generic Attribute Profile (GATT)](https://www.bluetooth.com/bluetooth-resources/intro-to-bluetooth-gap-gatt/) - Intro about GATT
+* [Intro to Bluetooth Low Energy](https://www.bluetooth.com/bluetooth-resources/intro-to-bluetooth-low-energy/) - Intro about the basics of BLE
+* [Wikipedia Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) - The wiki page for Bluetooth Low Energy (BLE)
 
-### iOS
-*iOS related resources* [back to top](#readme) 
+## Library
+*If you are planning to integrate BLE in your project, here you can find a list of useful libraries for mobile, eps32, rpi and much more.* 
 
-* [CombineCoreBluetooth](https://github.com/StarryInternet/CombineCoreBluetooth) - CombineCoreBluetooth is a library that bridges Apple's CoreBluetooth framework and Apple's Combine framework.
+### Mobile
+*Libraries collection for Mobile software development. iOS, Android, Flutter, ReactNative, Kotlin Multiplatform Mobile.* [back to top](#readme) 
+
+
+## Embedded
+*Libraries collection for Embedded devices. RPi, ESP32, etc.* 
+
+## ESP32
+*ESP32 libraries* 
+
+## RaspberryPi (RPi)
+*RPi libraries* 
 
 
 ### Contributing
