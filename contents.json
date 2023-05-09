@@ -1,6 +1,6 @@
 {
-  "title": "Awesome BLE",
-  "header": "# Awesome BLE - [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)\nA collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](https://withintent.com). Feel free to contribute! \n<!-- \n\nPLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :)\n\n -->\n\n",
+  "title": "Awesome BLE (Bluetooth Low Energy)",
+  "header": "# Awesome BLE - [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)\nA collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](https://withintent.com). _Feel free to contribute!_ \n<!-- \n\nPLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :)\n\n -->\n\n",
   "header_contributing": "Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. If you see an entry longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/dotintent/awesome-ble/graphs/contributors); you rock!!",
   "categories": [
     {
