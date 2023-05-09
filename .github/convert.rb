@@ -129,7 +129,7 @@ def write_readme(j, filename)
     output << output_contributing(j)
 
     File.open(filename, 'w') { |f| f.write output}
-    puts "Wrote #{filename} :-)"
+    puts "Wrote #{filename} :)"
 end
 
 j = get_json()

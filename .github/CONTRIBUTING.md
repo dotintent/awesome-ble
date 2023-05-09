@@ -27,7 +27,7 @@ When adding new items, please adhere to the following guidelines:
 - Make an individual pull request for each suggestion.
 - Use the existing format in the JSON file
 
-```js
+```json
 {
 		"title": "Commander",
 		"category": "command-line",
