@@ -1,5 +1,5 @@
 # Awesome BLE - [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A collaborative list of Awesome BLE resources. Feel free to contribute! 
+A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](https://withintent.com). Feel free to contribute! 
 <!-- 
 
 PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :)
@@ -14,10 +14,14 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :)
 
 - [Documentation](#documentation)
 - [Library](#library)
+  - [Embedded](#library-embedded)
+    - [ESP32](#library-embedded-esp32)
+    - [RaspberryPi (RPi)](#library-embedded-rpi)
   - [Mobile](#library-mobile)
-- [Embedded](#library-embedded)
-- [ESP32](#library-embedded-esp32)
-- [RaspberryPi (RPi)](#library-embedded-rpi)
+    - [Android](#library-mobile-android)
+    - [Flutter](#library-mobile-flutter)
+    - [iOS](#library-mobile-ios)
+    - [KMM (Kotlin Multiplatform Mobile)](#library-mobile-kmm)
 
 ## Documentation
 *A collection of documentation and, RFC about BLE protocol* 
@@ -30,18 +34,48 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :)
 ## Library
 *If you are planning to integrate BLE in your project, here you can find a list of useful libraries for mobile, eps32, rpi and much more.* 
 
+### Embedded
+*Libraries collection for Embedded devices. RPi, ESP32, etc.* [back to top](#readme) 
+
+
+#### ESP32
+*ESP32 libraries* [back to top](#readme) 
+
+
+#### RaspberryPi (RPi)
+*RPi libraries* [back to top](#readme) 
+
+
 ### Mobile
 *Libraries collection for Mobile software development. iOS, Android, Flutter, ReactNative, Kotlin Multiplatform Mobile.* [back to top](#readme) 
 
 
-## Embedded
-*Libraries collection for Embedded devices. RPi, ESP32, etc.* 
+#### Android
+*Android related resources* [back to top](#readme) 
 
-## ESP32
-*ESP32 libraries* 
+* [RxAndroidBle](https://github.com/dariuszseweryn/RxAndroidBle) - An Android Bluetooth Low Energy (BLE) Library with RxJava3 interface
+* [SmartGattLib](https://github.com/movisens/SmartGattLib) - SmartGattLib is a Java library that simplifies the work with Bluetooth SMART devices (a.k.a. Bluetooth Low Energy in Bluetooth 4.0). It provides all UUIDs of the adopted GATT specification and an convenient way to interpret the characteristics (e.g. Heart Rate, BatteryLevel).
 
-## RaspberryPi (RPi)
-*RPi libraries* 
+#### Flutter
+*Flutter related resources* [back to top](#readme) 
+
+* [Flutter Blue Plus](https://github.com/boskokg/flutter_blue_plus) - Flutter Blue Plus is a bluetooth plugin for Flutter, a new app SDK to help developers build modern multi-platform apps.
+* [Flutter Reactive BLE](https://github.com/PhilipsHue/flutter_reactive_ble) - Flutter Reactive BLE is a Flutter library that handles BLE operations for multiple devices.
+
+#### iOS
+*iOS related resources* [back to top](#readme) 
+
+* [AsyncBluetooth](https://github.com/manolofdez/AsyncBluetooth) - A small library that adds concurrency to CoreBluetooth APIs.
+* [CombineCoreBluetooth](https://github.com/StarryInternet/CombineCoreBluetooth) - CombineCoreBluetooth is a library that bridges Apple's CoreBluetooth framework and Apple's Combine framework.
+* [iOS DFU Library](https://github.com/NordicSemiconductor/IOS-DFU-Library) - DFU application allows to flash new firmware on the DK.
+* [Rx Bluetooth Kit](https://github.com/Polidea/RxBluetoothKit) - RxBluetoothKit is a Bluetooth library that makes interaction with BLE devices much more pleasant. It's backed by RxSwift and CoreBluetooth and it provides nice API, for both Central and Peripheral modes.
+* [Swifty Sensors](https://github.com/codeinversion/sensors-swift) - Bluetooth LE Sensor Manager for iOS and macOS.
+
+#### KMM (Kotlin Multiplatform Mobile)
+*Kotlin Multiplatform Mobile related resources* [back to top](#readme) 
+
+* [BlueFalcon](https://github.com/Reedyuk/blue-falcon) - A Bluetooth kotlin multiplatform "Cross-Platform" library for iOS and Android
+* [Kable](https://github.com/JuulLabs/kable) - Kotlin Asynchronous Bluetooth Low Energy provides a simple Coroutines-powered API for interacting with Bluetooth Low Energy devices
 
 
 ### Contributing
