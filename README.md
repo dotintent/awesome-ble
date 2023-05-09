@@ -1,5 +1,5 @@
 # Awesome BLE - [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](https://withintent.com). Feel free to contribute! 
+A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](https://withintent.com). _Feel free to contribute!_ 
 <!-- 
 
 PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :)
@@ -8,7 +8,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :)
 
 
 
-![](https://img.shields.io/badge/Contents-16-green) $~~~~~$ ![](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)
+![](https://img.shields.io/badge/Contents-16-green) ![](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)
 
 ### Contents
 
