@@ -8,7 +8,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :)
 
 
 
-![](https://img.shields.io/badge/Contents-16-green) ![](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)
+![](https://img.shields.io/badge/Contents-17-green) ![](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)
 
 ### Contents
 
@@ -29,6 +29,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :)
 * [Developing a Bluetooth Low Energy Application by TI](https://software-dl.ti.com/lprf/simplelink_cc2640r2_sdk/1.35.00.33/exports/docs/ble5stack/ble_user_guide/html/ble-stack/index.html) - A guide by TI about how to develop a BLE app
 * [Intro to Bluetooth Generic Attribute Profile (GATT)](https://www.bluetooth.com/bluetooth-resources/intro-to-bluetooth-gap-gatt/) - Intro about GATT
 * [Intro to Bluetooth Low Energy](https://www.bluetooth.com/bluetooth-resources/intro-to-bluetooth-low-energy/) - Intro about the basics of BLE
+* [IoT for Beginners](https://microsoft.github.io/IoT-For-Beginners/#/) - Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about IoT basics.
 * [Wikipedia Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) - The wiki page for Bluetooth Low Energy (BLE)
 
 ## Library
