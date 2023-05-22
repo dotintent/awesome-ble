@@ -169,6 +169,13 @@
       "description": "A Bluetooth kotlin multiplatform \"Cross-Platform\" library for iOS and Android",
       "homepage": "https://github.com/Reedyuk/blue-falcon",
       "tags": ["kmm", "ble", "ios", "android"]
+    },
+    {
+      "title": "IoT for Beginners",
+      "category": "documentation",
+      "description": "Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about IoT basics.",
+      "homepage": "https://microsoft.github.io/IoT-For-Beginners/#/",
+      "tags": ["iot", "course"]
     }
   ]
 }
