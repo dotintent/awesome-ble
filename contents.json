@@ -1,13 +1,13 @@
 {
   "title": "Awesome BLE",
   "badge": "[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)",
-  "header": "\n\nA collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](https://withintent.com).",
+  "header": "\n\nBluetooth Low Energy (BLE): Low-power wireless communication protocol enabling efficient data exchange between devices, ideal for IoT, wearables, and other battery-powered applications.\n\nA collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](https://withintent.com).",
   "header_contributing": "Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first.\n\nIf you see an entry longer maintained or is not a good fit, please submit a pull request to improve this file.\n\nThank you to all [contributors](https://github.com/dotintent/awesome-ble/graphs/contributors); you rock!\n",
   "categories": [
     {
       "title": "Documentation",
       "id": "documentation",
-      "description": "A collection of documentation and, RFC about BLE protocol."
+      "description": "A collection of documentation and, RFC about Bluetooth Low Energy (BLE) protocol."
     },
     {
       "title": "Library",
@@ -15,10 +15,10 @@
       "description": "If you are planning to integrate BLE in your project, here you can find a list of useful libraries for mobile, eps32, rpi and much more."
     },
     {
-        "title": "iOS",
-        "id": "ios",
-        "description": "iOS related resources.",
-        "parent": "library"
+      "title": "iOS",
+      "id": "ios",
+      "description": "iOS related resources.",
+      "parent": "library"
     },
     {
       "title": "KMM",
@@ -33,10 +33,10 @@
       "parent": "library"
     },
     {
-        "title": "Flutter",
-        "id": "flutter",
-        "description": "Flutter related resources.",
-        "parent": "library"
+      "title": "Flutter",
+      "id": "flutter",
+      "description": "Flutter related resources.",
+      "parent": "library"
     }
   ],
   "projects": [

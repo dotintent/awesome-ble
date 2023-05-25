@@ -1,5 +1,7 @@
 # Awesome BLE [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+Bluetooth Low Energy (BLE): Low-power wireless communication protocol enabling efficient data exchange between devices, ideal for IoT, wearables, and other battery-powered applications.
+
 A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](https://withintent.com).
 
 
@@ -15,7 +17,7 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
   - [KMM](#kmm)
 
 ## Documentation
-_A collection of documentation and, RFC about BLE protocol._
+_A collection of documentation and, RFC about Bluetooth Low Energy (BLE) protocol._
 
 - [Android Bluetooth Low Energy](https://developer.android.com/guide/topics/connectivity/bluetooth/ble-overview) - Overview about BLE in Android.
 - [Developing a Bluetooth Low Energy Application by TI](https://software-dl.ti.com/lprf/simplelink_cc2640r2_sdk/1.35.00.33/exports/docs/ble5stack/ble_user_guide/html/ble-stack/index.html) - A guide by TI about how to develop a BLE app.
