@@ -37,18 +37,6 @@
         "id": "flutter",
         "description": "Flutter related resources.",
         "parent": "library"
-    },
-    {
-        "title": "ESP32",
-        "id": "esp32",
-        "description": "ESP32 libraries.",
-        "parent": "library"
-    },
-    {
-        "title": "RPi",
-        "id": "rpi",
-        "description": "Raspberry Pi (RPi) libraries.",
-        "parent": "library"
     }
   ],
   "projects": [

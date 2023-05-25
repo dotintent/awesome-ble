@@ -10,11 +10,9 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 - [Documentation](#documentation)
 - [Library](#library)
   - [Android](#android)
-  - [ESP32](#esp32)
   - [Flutter](#flutter)
   - [iOS](#ios)
   - [KMM](#kmm)
-  - [RPi](#rpi)
 
 ## Documentation
 _A collection of documentation and, RFC about BLE protocol._
@@ -36,10 +34,6 @@ _Android related resources._
 - [RxAndroidBle](https://github.com/dariuszseweryn/RxAndroidBle) - An Android Bluetooth Low Energy (BLE) Library with RxJava3 interface.
 - [SmartGattLib](https://github.com/movisens/SmartGattLib) - SmartGattLib is a Java library that simplifies the work with Bluetooth SMART devices (a.k.a. Bluetooth Low Energy in Bluetooth 4.0). It provides all UUIDs of the adopted GATT specification and an convenient way to interpret the characteristics (e.g. Heart Rate, BatteryLevel).
 
-### ESP32
-_ESP32 libraries._
-
-
 ### Flutter
 _Flutter related resources._
 
@@ -60,10 +54,6 @@ _Kotlin Multiplaform Mobile (KMM) related resources._
 
 - [BlueFalcon](https://github.com/Reedyuk/blue-falcon) - A Bluetooth kotlin multiplatform "Cross-Platform" library for iOS and Android.
 - [Kable](https://github.com/JuulLabs/kable) - Kotlin Asynchronous Bluetooth Low Energy provides a simple Coroutines-powered API for interacting with Bluetooth Low Energy devices.
-
-### RPi
-_Raspberry Pi (RPi) libraries._
-
 
 
 ## Contributing
