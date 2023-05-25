@@ -11,7 +11,7 @@ def output_projects(proj, id)
   proj.select {|p| p['category']==id }
     .sort_by {|k,v| k['title'].downcase}
     .each do |p|
-    o << "* [#{p['title']}](#{p['homepage']}) - #{p['description']}\n"
+    o << "- [#{p['title']}](#{p['homepage']}) - #{p['description']}\n"
   end
   o
 end
@@ -24,8 +24,8 @@ def output_content_category(c, indent)
   end
 
   toc << " #{c['title']}\n"
-  toc << "*#{c['description']}* " unless c['description'].nil?
-  toc << "[back to top](#readme) \n" if indent>2
+  toc << "_#{c['description']}_\n" unless c['description'].nil?
+  #toc << "[back to top](#readme) \n" if indent>2
   toc << "\n"
 
   toc
@@ -72,9 +72,12 @@ end
 
 def output_header(j)
   header       = j['header']
+  title        = j['title']
+  badge        = j['badge']
   num_projects = j['projects'].count
 
-  o = header
+  o = "# " + title +" "+ badge
+  o << header + "\n"
   o << "\n\n"
   o << output_table(num_projects)
 
@@ -82,7 +85,7 @@ def output_header(j)
 end
 
 def output_contributing(j)
-  o = "\n\n### Contributing\n\n"
+  o = "\n\n## Contributing\n\n"
   o << j['header_contributing']
   o
 end
@@ -94,7 +97,7 @@ def output_table(num_projects)
 end
 
 def output_toc(j)
-  toc = "\n\n### Contents\n\n"
+  toc = "\n\n## Contents\n\n"
 
   parents, children = j['categories'].partition { |c| c['parent'].nil? }
   parents.each do |c|
