@@ -38,7 +38,7 @@ def output_content(j)
 
   parents, children = j['categories'].partition { |c| c['parent'].nil? }
   parents.each do |c|
-    id = c['id']
+    id = c['id'].gsub(/[^a-zA-Z]/, '').downcase
     toc << output_content_category(c, 2)
     toc << output_projects(projects, id)
 

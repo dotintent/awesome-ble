@@ -7,36 +7,52 @@
     {
       "title": "Documentation",
       "id": "documentation",
-      "description": "A collection of documentation and, RFC about Bluetooth Low Energy (BLE) protocol."
+      "description": "Official specifications, standards, and technical documentation about the Bluetooth Low Energy (BLE) protocol."
     },
     {
       "title": "Library",
       "id": "library",
-      "description": "If you are planning to integrate BLE in your project, here you can find a list of useful libraries for mobile, eps32, rpi and much more."
+      "description": "Software libraries and frameworks for integrating Bluetooth Low Energy (BLE) functionality into various platforms, including mobile, embedded systems, and IoT devices."
     },
     {
       "title": "iOS",
       "id": "ios",
-      "description": "iOS related resources.",
-      "parent": "library"
+      "description": "iOS-specific libraries, tools, and resources for developing Bluetooth Low Energy (BLE) applications on Apple devices."
     },
     {
       "title": "KMM",
       "id": "kmm",
-      "description": "Kotlin Multiplaform Mobile (KMM) related resources.",
-      "parent": "library"
+      "description": "Resources and libraries for building Bluetooth Low Energy (BLE) applications using the Kotlin Multiplatform Mobile (KMM) framework."
     },
     {
       "title": "Android",
       "id": "android",
-      "description": "Android related resources.",
-      "parent": "library"
+      "description": "Android-specific libraries, tools, and resources for integrating Bluetooth Low Energy (BLE) functionality into Android applications."
     },
     {
       "title": "Flutter",
       "id": "flutter",
-      "description": "Flutter related resources.",
-      "parent": "library"
+      "description": "Flutter-specific libraries, tools, and resources for developing Bluetooth Low Energy (BLE) applications using the Flutter framework."
+    },
+    {
+      "title": "Tools",
+      "id": "tools",
+      "description": "Development and testing tools for Bluetooth Low Energy (BLE) applications, including analyzers, debuggers, and simulators."
+    },
+    {
+      "title": "Web",
+      "id": "web",
+      "description": "Web-based resources, frameworks, and tools for building Bluetooth Low Energy (BLE) applications using JavaScript and web technologies."
+    },
+    {
+      "title": "Examples",
+      "id": "examples",
+      "description": "Example applications, code snippets, and projects demonstrating the usage and implementation of Bluetooth Low Energy (BLE) features."
+    },
+    {
+      "title": "Simulators",
+      "id": "simulators",
+      "description": "Simulators and emulators for testing, simulating, and evaluating Bluetooth Low Energy (BLE) devices and networks."
     }
   ],
   "projects": [
@@ -153,6 +169,249 @@
       "description": "Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about IoT basics.",
       "homepage": "https://microsoft.github.io/IoT-For-Beginners/#/",
       "tags": ["iot", "course"]
+    },
+    {
+      "title": "Linux Bluetooth",
+      "category": "library",
+      "description": "Linux Bluetooth library.",
+      "homepage": "https://github.com/aguedes/linux-bluetooth",
+      "tags": ["linux", "bluetooth"]
+    },
+    {
+      "title": "Bluetooth Mesh Protocol",
+      "category": "documentation",
+      "description": "Bluetooth Mesh is a low-power, wireless network that enables many-to-many (m:m) device communication for large-scale device networks.",
+      "homepage": "https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-mesh/"
+    },
+    {
+      "title": "Nordic Semiconductor BLE SDK for Android",
+      "category": "android",
+      "description": "Official Bluetooth Low Energy SDK provided by Nordic Semiconductor for Android development.",
+      "homepage": "https://github.com/NordicSemiconductor/Android-BLE-Library",
+      "tags": ["android", "ble", "sdk"]
+    },
+    {
+      "title": "Web Bluetooth Polyfill",
+      "category": "web",
+      "description": "A polyfill library that provides a Bluetooth API for web browsers.",
+      "homepage": "https://github.com/urish/web-bluetooth-polyfill",
+      "tags": ["web", "ble", "polyfill"]
+    },
+    {
+      "title": "React Native BLE Manager",
+      "category": "react-native",
+      "description": "A library for accessing Bluetooth Low Energy (BLE) in React Native.",
+      "homepage": "https://github.com/innoveit/react-native-ble-manager",
+      "tags": ["react-native", "ble", "javascript"]
+    },
+    {
+      "title": "esp32-BLECollector",
+      "category": "esp32",
+      "description": "ESP32-based Bluetooth Low Energy (BLE) collector for Wi-Fi tracking.",
+      "homepage": "https://github.com/spacehuhn/esp32-BLECollector",
+      "tags": ["esp32", "ble", "wi-fi"]
+    },
+    {
+      "title": "BlueZ",
+      "category": "linux",
+      "description": "Official Linux Bluetooth protocol stack",
+      "homepage": "https://git.kernel.org/pub/scm/bluetooth/bluez.git/",
+      "tags": ["linux", "bluetooth", "protocol-stack"]
+    },
+    {
+      "title": "Bluetooth Low Energy for Go (Golang)",
+      "category": "go",
+      "description": "Go library for working with Bluetooth Low Energy (BLE) devices.",
+      "homepage": "https://github.com/paypal/gatt",
+      "tags": ["go", "golang", "ble"]
+    },
+    {
+      "title": "react-native-ble-plx",
+      "category": "react-native",
+      "description": "A comprehensive BLE library for React Native.",
+      "homepage": "https://github.com/Polidea/react-native-ble-plx",
+      "tags": ["react-native", "ble", "javascript"]
+    },
+    {
+      "title": "Bluepy",
+      "category": "python",
+      "description": "A Python interface to Bluetooth LE on Linux.",
+      "homepage": "https://github.com/IanHarvey/bluepy",
+      "tags": ["python", "ble", "linux"]
+    },
+    {
+      "title": "Noble",
+      "category": "node.js",
+      "description": "A Node.js BLE (Bluetooth Low Energy) central module.",
+      "homepage": "https://github.com/noble/noble",
+      "tags": ["node.js", "ble", "javascript"]
+    },
+    {
+      "title": "iOS Beacon Library",
+      "category": "ios",
+      "description": "Library for detecting and ranging beacons on iOS.",
+      "homepage": "https://github.com/mmohsinmustafa/iOS-Beacon-Library",
+      "tags": ["ios", "beacons"]
+    },
+    {
+      "title": "bleno",
+      "category": "node.js",
+      "description": "A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals.",
+      "homepage": "https://github.com/noble/bleno",
+      "tags": ["node.js", "ble", "javascript", "peripherals"]
+    },
+    {
+      "title": "Web Bluetooth Samples",
+      "category": "web",
+      "description": "A collection of Web Bluetooth API usage examples.",
+      "homepage": "https://github.com/WebBluetoothCG/demos",
+      "tags": ["web", "ble", "samples"]
+    },
+    {
+      "title": "Microbit Bluetooth",
+      "category": "microbit",
+      "description": "Bluetooth library for the BBC micro:bit.",
+      "homepage": "https://github.com/microbit-playground/microbit-blue",
+      "tags": ["microbit", "bluetooth"]
+    },
+    {
+      "title": "libblepp",
+      "category": "c++",
+      "description": "C++ library for Bluetooth Low Energy (BLE) development.",
+      "homepage": "https://github.com/edrosten/libblepp",
+      "tags": ["c++", "ble"]
+    },
+    {
+      "title": "GoBLE",
+      "category": "go",
+      "description": "A cross-platform Bluetooth Low Energy (BLE) library for Golang.",
+      "homepage": "https://github.com/go-ble/ble",
+      "tags": ["go", "golang", "ble"]
+    },
+    {
+      "title": "Bluetooth Mesh Simulator",
+      "category": "simulation",
+      "description": "A simulator for Bluetooth Mesh networks.",
+      "homepage": "https://github.com/ARMmbed/bluetooth-mesh-simulator",
+      "tags": ["bluetooth-mesh", "simulation"]
+    },
+    {
+      "title": "iOS-CoreBluetooth-Example",
+      "category": "ios",
+      "description": "Example project demonstrating the usage of CoreBluetooth on iOS.",
+      "homepage": "https://github.com/AlexLittlejohn/iOS-CoreBluetooth-Example",
+      "tags": ["ios", "corebluetooth"]
+    },
+    {
+      "title": "Web Bluetooth Device Info",
+      "category": "web",
+      "description": "Web Bluetooth demo to get information about a connected Bluetooth device.",
+      "homepage": "https://github.com/urish/web-bluetooth-device-info",
+      "tags": ["web", "ble", "demo"]
+    },
+    {
+      "title": "android-BluetoothChat",
+      "category": "android",
+      "description": "An Android Bluetooth chat application.",
+      "homepage": "https://github.com/googlesamples/android-BluetoothChat",
+      "tags": ["android", "bluetooth", "chat"]
+    },
+    {
+      "title": "Web Bluetooth Terminal",
+      "category": "web",
+      "description": "A simple terminal-like application using Web Bluetooth.",
+      "homepage": "https://github.com/soundworx/web-bluetooth-terminal",
+      "tags": ["web", "ble", "terminal"]
+    },
+    {
+      "title": "nRF Connect",
+      "category": "tool",
+      "description": "An application framework for developing, testing, and provisioning devices based on Nordic Semiconductor chips.",
+      "homepage": "https://github.com/NordicSemiconductor/pc-nrfconnect-core"
+    },
+    {
+      "title": "React Native Ble Manager",
+      "category": "library",
+      "description": "A React Native module for interacting with BLE peripherals.",
+      "homepage": "https://github.com/innoveit/react-native-ble-manager"
+    },
+    {
+      "title": "pygatt",
+      "category": "library",
+      "description": "A Python library for interacting with BLE devices.",
+      "homepage": "https://github.com/peplin/pygatt"
+    },
+    {
+      "title": "bluepy",
+      "category": "library",
+      "description": "A Python interface for Bluetooth LE on Linux.",
+      "homepage": "https://github.com/IanHarvey/bluepy"
+    },
+    {
+      "title": "bluez",
+      "category": "library",
+      "description": "The official Linux Bluetooth protocol stack.",
+      "homepage": "http://www.bluez.org/"
+    },
+    {
+      "title": "BLE Peripheral Simulator",
+      "category": "tool",
+      "description": "A cross-platform simulator for creating virtual Bluetooth Low Energy peripherals.",
+      "homepage": "https://github.com/Bleckwen/ble-peripheral-simulator"
+    },
+    {
+      "title": "BLE Device Monitor",
+      "category": "tool",
+      "description": "A tool for monitoring Bluetooth Low Energy devices and services on macOS.",
+      "homepage": "https://github.com/andrewgrant/bledm"
+    },
+    {
+      "title": "Web Bluetooth Playground",
+      "category": "web",
+      "description": "An interactive playground to explore Web Bluetooth API capabilities.",
+      "homepage": "https://googlechrome.github.io/samples/web-bluetooth/playground.html"
+    },
+    {
+      "title": "nRF52840 Examples",
+      "category": "example",
+      "description": "A collection of example applications for the nRF52840 Bluetooth SoC.",
+      "homepage": "https://github.com/nrfconnect/sdk-nrf/tree/master/examples/nrf52840"
+    },
+    {
+      "title": "Bluetooth Mesh Simulator",
+      "category": "simulation",
+      "description": "A simulator for testing and evaluating Bluetooth Mesh networks.",
+      "homepage": "https://github.com/ukBaz/Bluetooth-Mesh-Simulator"
+    },
+    {
+      "title": "Android BluetoothGatt Sample",
+      "category": "example",
+      "description": "An example application demonstrating how to use BluetoothGatt API on Android.",
+      "homepage": "https://github.com/android/connectivity-samples/tree/main/BluetoothLeGatt"
+    },
+    {
+      "title": "Bluetooth Developer Portal",
+      "category": "documentation",
+      "description": "Official documentation and resources for Bluetooth developers.",
+      "homepage": "https://www.bluetooth.com/develop/"
+    },
+    {
+      "title": "RN4870/71 Bluetooth Low Energy Module User's Guide",
+      "category": "documentation",
+      "description": "User's guide for the RN4870/71 Bluetooth Low Energy module by Microchip.",
+      "homepage": "https://www.microchip.com/wwwproducts/en/RN4870"
+    },
+    {
+      "title": "nRF51 SDK",
+      "category": "documentation",
+      "description": "Software Development Kit (SDK) for developing Bluetooth Low Energy applications on Nordic Semiconductor's nRF51 series of chips.",
+      "homepage": "https://www.nordicsemi.com/Software-and-tools/Software/nRF5-SDK"
+    },
+    {
+      "title": "Getting Started with Bluetooth Low Energy (BLE)",
+      "category": "documentation",
+      "description": "A comprehensive guide to getting started with Bluetooth Low Energy development.",
+      "homepage": "https://learn.adafruit.com/introduction-to-bluetooth-low-energy"
     }
   ]
 }
