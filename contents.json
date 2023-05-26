@@ -45,11 +45,6 @@
       "description": "Web-based resources, frameworks, and tools for building Bluetooth Low Energy (BLE) applications using JavaScript and web technologies."
     },
     {
-      "title": "Examples",
-      "id": "examples",
-      "description": "Example applications, code snippets, and projects demonstrating the usage and implementation of Bluetooth Low Energy (BLE) features."
-    },
-    {
       "title": "Simulators",
       "id": "simulators",
       "description": "Simulators and emulators for testing, simulating, and evaluating Bluetooth Low Energy (BLE) devices and networks."
@@ -290,10 +285,10 @@
     },
     {
       "title": "Bluetooth Mesh Simulator",
-      "category": "simulation",
+      "category": "simulators",
       "description": "A simulator for Bluetooth Mesh networks.",
       "homepage": "https://github.com/ARMmbed/bluetooth-mesh-simulator",
-      "tags": ["bluetooth-mesh", "simulation"]
+      "tags": ["bluetooth-mesh", "simulator"]
     },
     {
       "title": "iOS-CoreBluetooth-Example",
@@ -372,20 +367,14 @@
       "homepage": "https://googlechrome.github.io/samples/web-bluetooth/playground.html"
     },
     {
-      "title": "nRF52840 Examples",
-      "category": "example",
-      "description": "A collection of example applications for the nRF52840 Bluetooth SoC.",
-      "homepage": "https://github.com/nrfconnect/sdk-nrf/tree/master/examples/nrf52840"
-    },
-    {
       "title": "Bluetooth Mesh Simulator",
-      "category": "simulation",
+      "category": "simulators",
       "description": "A simulator for testing and evaluating Bluetooth Mesh networks.",
       "homepage": "https://github.com/ukBaz/Bluetooth-Mesh-Simulator"
     },
     {
       "title": "Android BluetoothGatt Sample",
-      "category": "example",
+      "category": "android",
       "description": "An example application demonstrating how to use BluetoothGatt API on Android.",
       "homepage": "https://github.com/android/connectivity-samples/tree/main/BluetoothLeGatt"
     },

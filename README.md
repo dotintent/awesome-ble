@@ -5,7 +5,7 @@ Bluetooth Low Energy (BLE): Low-power wireless communication protocol enabling e
 A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](https://withintent.com).
 
 
-![](https://img.shields.io/badge/Contents-54-green) ![](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)
+![](https://img.shields.io/badge/Contents-53-green) ![](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)
 
 ## Contents
 
@@ -17,7 +17,6 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 - [Flutter](#flutter)
 - [Tools](#tools)
 - [Web](#web)
-- [Examples](#examples)
 - [Simulators](#simulators)
 
 ## Documentation
@@ -64,6 +63,7 @@ _Resources and libraries for building Bluetooth Low Energy (BLE) applications us
 ## Android
 _Android-specific libraries, tools, and resources for integrating Bluetooth Low Energy (BLE) functionality into Android applications._
 
+- [Android BluetoothGatt Sample](https://github.com/android/connectivity-samples/tree/main/BluetoothLeGatt) - An example application demonstrating how to use BluetoothGatt API on Android.
 - [android-BluetoothChat](https://github.com/googlesamples/android-BluetoothChat) - An Android Bluetooth chat application.
 - [Nordic Semiconductor BLE SDK for Android](https://github.com/NordicSemiconductor/Android-BLE-Library) - Official Bluetooth Low Energy SDK provided by Nordic Semiconductor for Android development.
 - [RxAndroidBle](https://github.com/dariuszseweryn/RxAndroidBle) - An Android Bluetooth Low Energy (BLE) Library with RxJava3 interface.
@@ -88,13 +88,11 @@ _Web-based resources, frameworks, and tools for building Bluetooth Low Energy (B
 - [Web Bluetooth Samples](https://github.com/WebBluetoothCG/demos) - A collection of Web Bluetooth API usage examples.
 - [Web Bluetooth Terminal](https://github.com/soundworx/web-bluetooth-terminal) - A simple terminal-like application using Web Bluetooth.
 
-## Examples
-_Example applications, code snippets, and projects demonstrating the usage and implementation of Bluetooth Low Energy (BLE) features._
-
-
 ## Simulators
 _Simulators and emulators for testing, simulating, and evaluating Bluetooth Low Energy (BLE) devices and networks._
 
+- [Bluetooth Mesh Simulator](https://github.com/ARMmbed/bluetooth-mesh-simulator) - A simulator for Bluetooth Mesh networks.
+- [Bluetooth Mesh Simulator](https://github.com/ukBaz/Bluetooth-Mesh-Simulator) - A simulator for testing and evaluating Bluetooth Mesh networks.
 
 
 ## Contributing
