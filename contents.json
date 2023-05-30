@@ -35,8 +35,8 @@
       "description": "Flutter-specific libraries, tools, and resources for developing Bluetooth Low Energy (BLE) applications using the Flutter framework."
     },
     {
-      "title": "Tools",
-      "id": "tools",
+      "title": "Tool",
+      "id": "tool",
       "description": "Development and testing tools for Bluetooth Low Energy (BLE) applications, including analyzers, debuggers, and simulators."
     },
     {
@@ -325,12 +325,6 @@
       "homepage": "https://github.com/NordicSemiconductor/pc-nrfconnect-core"
     },
     {
-      "title": "React Native Ble Manager",
-      "category": "library",
-      "description": "A React Native module for interacting with BLE peripherals.",
-      "homepage": "https://github.com/innoveit/react-native-ble-manager"
-    },
-    {
       "title": "pygatt",
       "category": "library",
       "description": "A Python library for interacting with BLE devices.",
@@ -401,6 +395,27 @@
       "category": "documentation",
       "description": "A comprehensive guide to getting started with Bluetooth Low Energy development.",
       "homepage": "https://learn.adafruit.com/introduction-to-bluetooth-low-energy"
+    },
+    {
+      "title": "Bettercap",
+      "category": "tool",
+      "description": "A easily extensible and portable framework for security researchers to test BLE security.",
+      "homepage": "https://github.com/bettercap/bettercap",
+      "tags": ["security", "go"]
+    },
+    {
+      "title": "FastBle",
+      "category": "android",
+      "description": "An Android Bluetooth Low Energy (BLE) fast development framework.",
+      "homepage": "https://github.com/Jasonchenlijian/FastBle",
+      "tags": ["android", "ble", "fast"]
+    },
+    {
+      "title": "Blinker",
+      "category": "esp32",
+      "description": "An IoT Solution,Blinker library for embedded hardware.",
+      "homepage": "https://github.com/blinker-iot/blinker-library",
+      "tags": ["esp32", "esp8266", "arduino"]
     }
   ]
 }

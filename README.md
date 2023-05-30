@@ -5,7 +5,7 @@ Bluetooth Low Energy (BLE): Low-power wireless communication protocol enabling e
 A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](https://withintent.com).
 
 
-![](https://img.shields.io/badge/Contents-53-green) ![](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)
+![](https://img.shields.io/badge/Contents-55-green) ![](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)
 
 ## Contents
 
@@ -15,7 +15,7 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 - [KMM](#kmm)
 - [Android](#android)
 - [Flutter](#flutter)
-- [Tools](#tools)
+- [Tool](#tool)
 - [Web](#web)
 - [Simulators](#simulators)
 
@@ -41,7 +41,6 @@ _Software libraries and frameworks for integrating Bluetooth Low Energy (BLE) fu
 - [bluez](http://www.bluez.org/) - The official Linux Bluetooth protocol stack.
 - [Linux Bluetooth](https://github.com/aguedes/linux-bluetooth) - Linux Bluetooth library.
 - [pygatt](https://github.com/peplin/pygatt) - A Python library for interacting with BLE devices.
-- [React Native Ble Manager](https://github.com/innoveit/react-native-ble-manager) - A React Native module for interacting with BLE peripherals.
 
 ## iOS
 _iOS-specific libraries, tools, and resources for developing Bluetooth Low Energy (BLE) applications on Apple devices._
@@ -65,6 +64,7 @@ _Android-specific libraries, tools, and resources for integrating Bluetooth Low 
 
 - [Android BluetoothGatt Sample](https://github.com/android/connectivity-samples/tree/main/BluetoothLeGatt) - An example application demonstrating how to use BluetoothGatt API on Android.
 - [android-BluetoothChat](https://github.com/googlesamples/android-BluetoothChat) - An Android Bluetooth chat application.
+- [FastBle](https://github.com/Jasonchenlijian/FastBle) - An Android Bluetooth Low Energy (BLE) fast development framework.
 - [Nordic Semiconductor BLE SDK for Android](https://github.com/NordicSemiconductor/Android-BLE-Library) - Official Bluetooth Low Energy SDK provided by Nordic Semiconductor for Android development.
 - [RxAndroidBle](https://github.com/dariuszseweryn/RxAndroidBle) - An Android Bluetooth Low Energy (BLE) Library with RxJava3 interface.
 - [SmartGattLib](https://github.com/movisens/SmartGattLib) - SmartGattLib is a Java library that simplifies the work with Bluetooth SMART devices (a.k.a. Bluetooth Low Energy in Bluetooth 4.0). It provides all UUIDs of the adopted GATT specification and an convenient way to interpret the characteristics (e.g. Heart Rate, BatteryLevel).
@@ -75,9 +75,13 @@ _Flutter-specific libraries, tools, and resources for developing Bluetooth Low E
 - [Flutter Blue Plus](https://github.com/boskokg/flutter_blue_plus) - Flutter Blue Plus is a bluetooth plugin for Flutter, a new app SDK to help developers build modern multi-platform apps.
 - [Flutter Reactive BLE](https://github.com/PhilipsHue/flutter_reactive_ble) - Flutter Reactive BLE is a Flutter library that handles BLE operations for multiple devices.
 
-## Tools
+## Tool
 _Development and testing tools for Bluetooth Low Energy (BLE) applications, including analyzers, debuggers, and simulators._
 
+- [Bettercap](https://github.com/bettercap/bettercap) - A easily extensible and portable framework for security researchers to test BLE security.
+- [BLE Device Monitor](https://github.com/andrewgrant/bledm) - A tool for monitoring Bluetooth Low Energy devices and services on macOS.
+- [BLE Peripheral Simulator](https://github.com/Bleckwen/ble-peripheral-simulator) - A cross-platform simulator for creating virtual Bluetooth Low Energy peripherals.
+- [nRF Connect](https://github.com/NordicSemiconductor/pc-nrfconnect-core) - An application framework for developing, testing, and provisioning devices based on Nordic Semiconductor chips.
 
 ## Web
 _Web-based resources, frameworks, and tools for building Bluetooth Low Energy (BLE) applications using JavaScript and web technologies._
