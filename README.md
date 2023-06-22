@@ -5,7 +5,7 @@ Bluetooth Low Energy (BLE): Low-power wireless communication protocol enabling e
 A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](https://withintent.com).
 
 
-![](https://img.shields.io/badge/Contents-55-green) ![](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)
+![](https://img.shields.io/badge/Contents-43-green) ![](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)
 
 ## Contents
 
@@ -17,14 +17,11 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 - [Flutter](#flutter)
 - [Tool](#tool)
 - [Web](#web)
-- [Simulators](#simulators)
 
 ## Documentation
 _Official specifications, standards, and technical documentation about the Bluetooth Low Energy (BLE) protocol._
 
 - [Android Bluetooth Low Energy](https://developer.android.com/guide/topics/connectivity/bluetooth/ble-overview) - Overview about BLE in Android.
-- [Bluetooth Developer Portal](https://www.bluetooth.com/develop/) - Official documentation and resources for Bluetooth developers.
-- [Bluetooth Mesh Protocol](https://www.bluetooth.com/learn-about-bluetooth/bluetooth-technology/bluetooth-mesh/) - Bluetooth Mesh is a low-power, wireless network that enables many-to-many (m:m) device communication for large-scale device networks.
 - [Developing a Bluetooth Low Energy Application by TI](https://software-dl.ti.com/lprf/simplelink_cc2640r2_sdk/1.35.00.33/exports/docs/ble5stack/ble_user_guide/html/ble-stack/index.html) - A guide by TI about how to develop a BLE app.
 - [Getting Started with Bluetooth Low Energy (BLE)](https://learn.adafruit.com/introduction-to-bluetooth-low-energy) - A comprehensive guide to getting started with Bluetooth Low Energy development.
 - [Intro to Bluetooth Generic Attribute Profile (GATT)](https://www.bluetooth.com/bluetooth-resources/intro-to-bluetooth-gap-gatt/) - Intro about GATT.
@@ -39,7 +36,6 @@ _Software libraries and frameworks for integrating Bluetooth Low Energy (BLE) fu
 
 - [bluepy](https://github.com/IanHarvey/bluepy) - A Python interface for Bluetooth LE on Linux.
 - [bluez](http://www.bluez.org/) - The official Linux Bluetooth protocol stack.
-- [Linux Bluetooth](https://github.com/aguedes/linux-bluetooth) - Linux Bluetooth library.
 - [pygatt](https://github.com/peplin/pygatt) - A Python library for interacting with BLE devices.
 
 ## iOS
@@ -47,10 +43,8 @@ _iOS-specific libraries, tools, and resources for developing Bluetooth Low Energ
 
 - [AsyncBluetooth](https://github.com/manolofdez/AsyncBluetooth) - A small library that adds concurrency to CoreBluetooth APIs.
 - [CombineCoreBluetooth](https://github.com/StarryInternet/CombineCoreBluetooth) - CombineCoreBluetooth is a library that bridges Apple's CoreBluetooth framework and Apple's Combine framework.
-- [iOS Beacon Library](https://github.com/mmohsinmustafa/iOS-Beacon-Library) - Library for detecting and ranging beacons on iOS.
 - [iOS DFU Library](https://github.com/NordicSemiconductor/IOS-DFU-Library) - DFU application allows to flash new firmware on the DK.
-- [iOS-CoreBluetooth-Example](https://github.com/AlexLittlejohn/iOS-CoreBluetooth-Example) - Example project demonstrating the usage of CoreBluetooth on iOS.
-- [Rx Bluetooth Kit](https://github.com/Polidea/RxBluetoothKit) - RxBluetoothKit is a Bluetooth library that makes interaction with BLE devices much more pleasant. It's backed by RxSwift and CoreBluetooth and it provides nice API, for both Central and Peripheral modes.
+- [Rx Bluetooth Kit](https://github.com/Polidea/RxBluetoothKit) - RxBluetoothKit is a Bluetooth library that makes interaction with BLE devices much more pleasant using RxSwift.
 - [Swifty Sensors](https://github.com/codeinversion/sensors-swift) - Bluetooth LE Sensor Manager for iOS and macOS.
 
 ## KMM
@@ -79,24 +73,13 @@ _Flutter-specific libraries, tools, and resources for developing Bluetooth Low E
 _Development and testing tools for Bluetooth Low Energy (BLE) applications, including analyzers, debuggers, and simulators._
 
 - [Bettercap](https://github.com/bettercap/bettercap) - A easily extensible and portable framework for security researchers to test BLE security.
-- [BLE Device Monitor](https://github.com/andrewgrant/bledm) - A tool for monitoring Bluetooth Low Energy devices and services on macOS.
-- [BLE Peripheral Simulator](https://github.com/Bleckwen/ble-peripheral-simulator) - A cross-platform simulator for creating virtual Bluetooth Low Energy peripherals.
 - [nRF Connect](https://github.com/NordicSemiconductor/pc-nrfconnect-core) - An application framework for developing, testing, and provisioning devices based on Nordic Semiconductor chips.
 
 ## Web
 _Web-based resources, frameworks, and tools for building Bluetooth Low Energy (BLE) applications using JavaScript and web technologies._
 
 - [Web Bluetooth Device Info](https://github.com/urish/web-bluetooth-device-info) - Web Bluetooth demo to get information about a connected Bluetooth device.
-- [Web Bluetooth Playground](https://googlechrome.github.io/samples/web-bluetooth/playground.html) - An interactive playground to explore Web Bluetooth API capabilities.
-- [Web Bluetooth Polyfill](https://github.com/urish/web-bluetooth-polyfill) - A polyfill library that provides a Bluetooth API for web browsers.
 - [Web Bluetooth Samples](https://github.com/WebBluetoothCG/demos) - A collection of Web Bluetooth API usage examples.
-- [Web Bluetooth Terminal](https://github.com/soundworx/web-bluetooth-terminal) - A simple terminal-like application using Web Bluetooth.
-
-## Simulators
-_Simulators and emulators for testing, simulating, and evaluating Bluetooth Low Energy (BLE) devices and networks._
-
-- [Bluetooth Mesh Simulator](https://github.com/ARMmbed/bluetooth-mesh-simulator) - A simulator for Bluetooth Mesh networks.
-- [Bluetooth Mesh Simulator](https://github.com/ukBaz/Bluetooth-Mesh-Simulator) - A simulator for testing and evaluating Bluetooth Mesh networks.
 
 
 ## Contributing
