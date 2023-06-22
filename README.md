@@ -39,7 +39,7 @@ _Software libraries and frameworks for integrating Bluetooth Low Energy (BLE) fu
 - [pygatt](https://github.com/peplin/pygatt) - A Python library for interacting with BLE devices.
 
 ## iOS
-_iOS-specific libraries, tools, and resources for developing Bluetooth Low Energy (BLE) applications on Apple devices._
+_iOS libraries, tools, and resources for developing Bluetooth Low Energy (BLE) applications on Apple devices._
 
 - [AsyncBluetooth](https://github.com/manolofdez/AsyncBluetooth) - A small library that adds concurrency to CoreBluetooth APIs.
 - [CombineCoreBluetooth](https://github.com/StarryInternet/CombineCoreBluetooth) - CombineCoreBluetooth is a library that bridges Apple's CoreBluetooth framework and Apple's Combine framework.
@@ -54,7 +54,7 @@ _Resources and libraries for building Bluetooth Low Energy (BLE) applications us
 - [Kable](https://github.com/JuulLabs/kable) - Kotlin Asynchronous Bluetooth Low Energy provides a simple Coroutines-powered API for interacting with Bluetooth Low Energy devices.
 
 ## Android
-_Android-specific libraries, tools, and resources for integrating Bluetooth Low Energy (BLE) functionality into Android applications._
+_Android libraries, tools, and resources for integrating Bluetooth Low Energy (BLE) functionality into Android applications._
 
 - [Android BluetoothGatt Sample](https://github.com/android/connectivity-samples/tree/main/BluetoothLeGatt) - An example application demonstrating how to use BluetoothGatt API on Android.
 - [android-BluetoothChat](https://github.com/googlesamples/android-BluetoothChat) - An Android Bluetooth chat application.
@@ -64,7 +64,7 @@ _Android-specific libraries, tools, and resources for integrating Bluetooth Low 
 - [SmartGattLib](https://github.com/movisens/SmartGattLib) - SmartGattLib is a Java library that simplifies the work with Bluetooth SMART devices (a.k.a. Bluetooth Low Energy in Bluetooth 4.0). It provides all UUIDs of the adopted GATT specification and an convenient way to interpret the characteristics (e.g. Heart Rate, BatteryLevel).
 
 ## Flutter
-_Flutter-specific libraries, tools, and resources for developing Bluetooth Low Energy (BLE) applications using the Flutter framework._
+_Flutter libraries, tools, and resources for developing Bluetooth Low Energy (BLE) applications using the Flutter framework for both iOS and Android._
 
 - [Flutter Blue Plus](https://github.com/boskokg/flutter_blue_plus) - Flutter Blue Plus is a bluetooth plugin for Flutter, a new app SDK to help developers build modern multi-platform apps.
 - [Flutter Reactive BLE](https://github.com/PhilipsHue/flutter_reactive_ble) - Flutter Reactive BLE is a Flutter library that handles BLE operations for multiple devices.
