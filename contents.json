@@ -17,7 +17,7 @@
     {
       "title": "iOS",
       "id": "ios",
-      "description": "iOS-specific libraries, tools, and resources for developing Bluetooth Low Energy (BLE) applications on Apple devices."
+      "description": "iOS libraries, tools, and resources for developing Bluetooth Low Energy (BLE) applications on Apple devices."
     },
     {
       "title": "KMM",
@@ -27,12 +27,12 @@
     {
       "title": "Android",
       "id": "android",
-      "description": "Android-specific libraries, tools, and resources for integrating Bluetooth Low Energy (BLE) functionality into Android applications."
+      "description": "Android libraries, tools, and resources for integrating Bluetooth Low Energy (BLE) functionality into Android applications."
     },
     {
       "title": "Flutter",
       "id": "flutter",
-      "description": "Flutter-specific libraries, tools, and resources for developing Bluetooth Low Energy (BLE) applications using the Flutter framework."
+      "description": "Flutter libraries, tools, and resources for developing Bluetooth Low Energy (BLE) applications using the Flutter framework for both iOS and Android."
     },
     {
       "title": "Tool",
