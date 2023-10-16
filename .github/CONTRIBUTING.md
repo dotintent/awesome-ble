@@ -2,8 +2,6 @@
 
 In order to contribute to this repository you need to **fork** it, then you can create a pull request.
 
-The *README* is generated from **contents.json**, please update the JSON file instead of the README :smile:
-
 - **To add to the list:** Submit a pull request
 - **To remove from the list:** Open an issue
 
@@ -25,22 +23,9 @@ When adding new items, please adhere to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
-- Use the existing format in the JSON file
-
-```json
-{
-		"title": "Commander",
-		"category": "command-line",
-		"description": "Compose beautiful command line interfaces.",
-		"homepage": "https://github.com/kylef/Commander",
-		"tags": ["linux"]
-}
-```
-
 - New categories, or improvements to the existing categorization are welcome (open an issue).
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
-- The description usually should not include "written in Swift" or "in Swift" as everything on the list would have that.
 - Check your spelling and grammar.
 - The pull request should include a link to the package and why it should be included.
 
