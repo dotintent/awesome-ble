@@ -40,6 +40,7 @@ _Software libraries and frameworks for integrating Bluetooth Low Energy (BLE) fu
 
 - [bluepy](https://github.com/IanHarvey/bluepy) - A Python interface for Bluetooth LE on Linux.
 - [bluez](http://www.bluez.org/) - The official Linux Bluetooth protocol stack.
+- [bumble](https://github.com/google/bumble) - Bumble is a full-featured Bluetooth stack written entirely in Python.
 - [pygatt](https://github.com/peplin/pygatt) - A Python library for interacting with BLE devices.
 - [SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - The all-in-one C/C++/Python/Rust Bluetooth LE library for MacOS, iOS, Windows, and Linux.
 
