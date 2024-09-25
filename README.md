@@ -13,6 +13,7 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 - [Android](#android)
 - [Documentation](#documentation)
 - [Flutter](#flutter)
+- [Framework](#framework)
 - [iOS](#ios)
 - [KMM](#kmm)
 - [Library](#library)
@@ -33,6 +34,13 @@ _Official specifications, standards, and technical documentation about the Bluet
 - [nRF51 SDK](https://www.nordicsemi.com/Software-and-tools/Software/nRF5-SDK) - Software Development Kit (SDK) for developing Bluetooth Low Energy applications on Nordic Semiconductor's nRF51 series of chips.
 - [RN4870/71 Bluetooth Low Energy Module User's Guide](https://www.microchip.com/wwwproducts/en/RN4870) - User's guide for the RN4870/71 Bluetooth Low Energy module by Microchip.
 - [Wikipedia Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) - The wiki page for Bluetooth Low Energy (BLE).
+
+## Framework
+
+_Framework useful to develop your BLE peripherals._
+
+- [Matter](https://github.com/project-chip/connectedhomeip) - Matter
+- [ESP-IDF](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework
 
 ## Library
 
