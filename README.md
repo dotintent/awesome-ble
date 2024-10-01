@@ -86,6 +86,7 @@ _Flutter libraries, tools, and resources for developing Bluetooth Low Energy (BL
 
 - [Flutter Blue Plus](https://github.com/boskokg/flutter_blue_plus) - Flutter Blue Plus is a bluetooth plugin for Flutter, a new app SDK to help developers build modern multi-platform apps.
 - [Flutter Reactive BLE](https://github.com/PhilipsHue/flutter_reactive_ble) - Flutter Reactive BLE is a Flutter library that handles BLE operations for multiple devices.
+- [Flutter BLELib](https://github.com/dotintent/FlutterBleLib) - Bluetooth Low Energy library for Flutter with support for simulating peripherals.
 
 ## Tool
 
