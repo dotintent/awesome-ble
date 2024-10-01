@@ -41,6 +41,7 @@ _Framework useful to develop your BLE peripherals._
 
 - [Matter](https://github.com/project-chip/connectedhomeip) - Matter
 - [ESP-IDF](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework
+- [Zephyr](https://github.com/zephyrproject-rtos/zephyr) - Zephyr
 
 ## Library
 
