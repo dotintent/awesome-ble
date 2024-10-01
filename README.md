@@ -2,7 +2,7 @@
 
 ![](.github/awesome-ble.png)
 
-Bluetooth Low Energy (BLE): Low-power wireless communication protocol enabling efficient data exchange between devices, ideal for IoT, wearables, and other battery-powered applications.
+**Bluetooth Low Energy (BLE)**: Low-power wireless communication protocol enabling efficient data exchange between devices, ideal for IoT, wearables, and other battery-powered applications.
 
 A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](https://withintent.com).
 
