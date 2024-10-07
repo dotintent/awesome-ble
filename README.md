@@ -110,6 +110,12 @@ _Security related resources around BLE._
 
 - [Awesome Bluetooth Security](https://github.com/engn33r/awesome-bluetooth-security) - An awesome repo related to Bluetooth (and also BLE) realted security
 
+## Articles and Case Studies
+
+_Interesting articles and case studies from BLE development_
+
+- [Scan and connect to BLE in background on iOS](https://medium.com/@cbartel/ios-scan-and-connect-to-a-ble-peripheral-in-the-background-731f960d520d) - Article discussing case study (for both firmware and app) of scanning and connecting to BLE device in background 
+
 ## Contributing
 
 Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first.
