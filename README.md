@@ -117,7 +117,7 @@ _Security related resources around BLE._
 
 - [Awesome Bluetooth Security](https://github.com/engn33r/awesome-bluetooth-security) - An awesome repo related to Bluetooth (and also BLE) realted security
 
-## Ardunino
+## Arduino
 
 _A list of resources dedicated to Arduino hardware_
 
