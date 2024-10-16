@@ -143,6 +143,12 @@ _A list of resources dedicated to RaspberryPi hardware_
 
 - [Raspberry Pi](https://www.raspberrypi.org/) - Official website
 
+## Articles and Case Studies
+
+_Interesting articles and case studies from BLE development_
+
+- [Scan and connect to BLE in background on iOS](https://medium.com/@cbartel/ios-scan-and-connect-to-a-ble-peripheral-in-the-background-731f960d520d) - Article discussing case study (for both firmware and app) of scanning and connecting to BLE device in background 
+
 ## Contributing
 
 Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first.
