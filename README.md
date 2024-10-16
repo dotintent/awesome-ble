@@ -10,12 +10,20 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 
 ## Contents
 
+### Hardware
+- [Arduino](#arduino)
+- [ESP](#esp)
+- [Nordic](#nordic)
+- [RaspberryPi](#raspberrypi)
+
+### Mobile
 - [Android](#android)
-- [Documentation](#documentation)
 - [Flutter](#flutter)
-- [Framework](#framework)
-- [iOS](#ios)
 - [KMM](#kmm)
+- [iOS](#ios)
+
+- [Documentation](#documentation)
+- [Framework](#framework)
 - [Library](#library)
 - [Tool](#tool)
 - [Security](#security)
@@ -40,7 +48,6 @@ _Official specifications, standards, and technical documentation about the Bluet
 _Framework useful to develop your BLE peripherals._
 
 - [Matter](https://github.com/project-chip/connectedhomeip) - Matter
-- [ESP-IDF](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework
 - [Zephyr](https://github.com/zephyrproject-rtos/zephyr) - Zephyr
 
 ## Library
@@ -109,6 +116,32 @@ _Web-based resources, frameworks, and tools for building Bluetooth Low Energy (B
 _Security related resources around BLE._
 
 - [Awesome Bluetooth Security](https://github.com/engn33r/awesome-bluetooth-security) - An awesome repo related to Bluetooth (and also BLE) realted security
+
+## Ardunino
+
+_A list of resources dedicated to Arduino hardware_
+
+- [Arduino](https://store.arduino.cc/) - Official website
+- [ArduinoBLE](https://github.com/arduino-libraries/ArduinoBLE) - ArduinoBLE library for Arduino
+
+## ESP
+
+_A list of resources dedicated to EspressIf hardware_
+
+- [EspressIf](https://www.espressif.com/) - Official Website
+- [ESP-IDF](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework
+
+## Nordic
+
+_A list of resources dedicated to Arduino hardware_
+
+- [Nordic Semiconductor](https://www.nordicsemi.com/) - Official Website
+
+## RaspberryPi
+
+_A list of resources dedicated to RaspberryPi hardware_
+
+- [Raspberry Pi](https://www.raspberrypi.org/) - Official website
 
 ## Contributing
 
