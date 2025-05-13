@@ -70,6 +70,7 @@ _iOS libraries, tools, and resources for developing Bluetooth Low Energy (BLE) a
 - [iOS DFU Library](https://github.com/NordicSemiconductor/IOS-DFU-Library) - DFU application allows to flash new firmware on the DK.
 - [Rx Bluetooth Kit](https://github.com/Polidea/RxBluetoothKit) - RxBluetoothKit is a Bluetooth library that makes interaction with BLE devices much more pleasant using RxSwift.
 - [Swifty Sensors](https://github.com/codeinversion/sensors-swift) - Bluetooth LE Sensor Manager for iOS and macOS.
+- [SpeziBluetooth](https://github.com/StanfordSpezi/SpeziBluetooth) - Connect and communicate with Bluetooth devices using modern programming paradigms.
 
 ## KMM
 
