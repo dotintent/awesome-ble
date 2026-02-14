@@ -103,6 +103,7 @@ _Flutter libraries, tools, and resources for developing Bluetooth Low Energy (BL
 
 _Development and testing tools for Bluetooth Low Energy (BLE) applications, including analyzers, debuggers, and simulators._
 
+- [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) - Cross-platform CLI that reads BLE smart scales (23 brands), calculates body composition, and exports to Garmin Connect, MQTT, InfluxDB, and more. [Website](https://blescalesync.dev).
 - [Bettercap](https://github.com/bettercap/bettercap) - A easily extensible and portable framework for security researchers to test BLE security.
 - [nRF Connect](https://github.com/NordicSemiconductor/pc-nrfconnect-core) - An application framework for developing, testing, and provisioning devices based on Nordic Semiconductor chips.
 - [BLE Simulator](https://play.google.com/store/apps/details?id=com.withintent.ble.simulator&hl=en) - A mobile app able to clone BLE devices and script their interaction. Useful to debug and quick prototyping.
